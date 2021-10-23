@@ -1,5 +1,5 @@
 # One-Bit-Value-Comparator-Integrated-Circuit-Design
-## （本库为本人课程设计备份）
+## （本库为本人课程设计备份）一位数值比较器的设计仿真与CMOS版图设计
 # 设计要求
 1. 对电路进行仿真验证；
 2. 根据所用的工艺，选取合理的模型库；
